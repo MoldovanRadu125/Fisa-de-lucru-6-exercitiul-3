@@ -1,0 +1,104 @@
+<html>
+<body>
+<head>
+<title>Catalogul elevilor</title>
+<link rel="stylesheet" href="new1.css">
+</head>
+
+<img src="images.jfif" >
+<h1 id="Catalogulelevilor">Catalogul elevilor</h1>
+
+h1>Zah Andrei Ionut</h1>
+<p>Email: zahandrei@ymail.com</p>
+<img src="123189011_788137825068289_4146268878773467038_n.jpg" alt="Zah Andrei" >
+<p>De la facultate ma astept sa ma inteleg bine cu profesorii si sa invat lucruri noi care sa ma ajute in viitor</p>
+<table style="width:30%">
+  <tr>
+    <th>Materia</th>
+    <th>Descriere</th> 
+  </tr>
+  <tr>
+    <td>Programarea calculatoarelor</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf">Link</a>
+</td>
+  </tr>
+  <tr>
+    <td>Informatica aplicata</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>Ecuatii diferentiale</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/09.pdf">Link</a></td>
+  </tr>
+</table>
+
+<h5>Hobby-uri:</h5>
+<ol>
+  <li>Handball</li>
+  <li>Jocuri video</li>
+  <li>Fotbal</li>
+  <li>Programarea</li>
+</ol>
+
+<h1>Maries Diana</h1>
+<img src="img1.jpg" alt="*Poza cu mine*">
+<p>Asteptarile mele legate de educatie sunt sa ma angajez si sa imi deschid orizontul cu privire la oportunitatiile in viata. Si sa imi placa ce invat.</p>
+<p>diana.bluex72@gmail.com</p>
+
+<h1>Materii preferate</h1>
+<table style="width:100%">
+  <tr>
+    <td>Analiză matematică</th>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/01.pdf"> Fisa disciplinei</a></th>
+    
+  </tr>
+  <tr>
+    <td>Programarea calculatoarelor</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf"> Fisa disciplinei</a></td>
+  </tr>
+  <tr>
+    <td>Sport 1</td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/07.pdf"> Fisa disciplinei</a></td>
+  </tr>
+</table>
+<h1>Pasiuni</h1>
+<ul>
+  <li>Pictura</li>
+  <li>Mersul cu bicicleta</li>
+  <li>Drumetii</li>
+  <li>Jocurile de societate</li>
+</ul>
+
+<h1>Andrei Aurelian Mates</h1>
+<img src="thumb_IMG_3945.jpg">
+<p>Mates.Ca.Andrei@utcluj.didatec.ro</p>
+<p>Legat de facultate am ca asteptari o buna intelgere cu profesorii,un interes ridicat atat din partea mea cat si din partea lor,intelegere si rabdare din partea cadrelor didactice.</p>
+<h2>Materii preferate</h2>
+<table style="width:200%">
+  <tr>
+    <th>Materiile preferate</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Componente si circuite pasive</td>
+    <td>Dispozitive electronice</td>
+    <td>Limba engleza</td>
+	<td>Informatica aplicata</td>
+  </tr>
+  <tr>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3105.pdf">Componente si circuite pasive</a></td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3112.pdf">Dispozitive electronice</a></td>
+    <td><a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3114.10.pdf">Limba engleza</a></td>
+	<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3106.pdf">Informatica aplicata</a></td>
+  </tr>
+</table>
+<h2>Hobby-uri</h2>
+<p>Baschet,Fotbal,Gaming</p>
+
+<h2>Informatii de stil:</h2>
+<p>w3-row, w3-row-padding, w3-content, w3-hide-small, w3-hide-medium</p>
+<p>w3-hide-large, w3-half, w3-third, w3-twothird, w3-quarter, w3-threequarter</p>
+<p>w3-rest, w3-col, w3-mobile</p>
+
+</body>
+</html>
